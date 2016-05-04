@@ -1,0 +1,4 @@
+/infratab_env
+*.pyc
+*.orig
+.idea/
